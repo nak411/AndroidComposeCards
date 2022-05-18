@@ -6,8 +6,11 @@
         <entry key="../../../../../layout/compose-model-1652894094967.xml" value="0.5771670190274841" />
         <entry key="../../../../../layout/compose-model-1652897908216.xml" value="0.625" />
         <entry key="../../../../../layout/compose-model-1652898365232.xml" value="0.30405405405405406" />
-        <entry key="app/src/main/res/layout/activity_card_compare.xml" value="0.16261398176291794" />
+        <entry key="../../../../../layout/compose-model-1652913936978.xml" value="0.30405405405405406" />
+        <entry key="../../../../../layout/compose-model-1652915646854.xml" value="0.447831184056272" />
+        <entry key="app/src/main/res/layout/activity_card_compare.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_card_section.xml" value="0.16945288753799392" />
+        <entry key="app/src/main/res/layout/fragment_card_demo.xml" value="0.26268115942028986" />
       </map>
     </option>
   </component>

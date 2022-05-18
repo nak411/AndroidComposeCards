@@ -51,7 +51,8 @@ fun MenuScreen() {
         }
 
         Button(onClick = {
-
+            val intent = Intent(context, CardCompareActivity::class.java)
+            context.startActivity(intent)
         }) {
             Text(text = "Compare Cards")
         }
